@@ -3,7 +3,7 @@
 💻 Desenvolvedor Java Júnior  
 🎓 Estudante de Ciência da Computação na Universidade Paulista (UNIP)
 
-Sou estudante de Ciência da Computação, com foco em desenvolvimento back-end e banco de dados. Tenho experiência prática com Java e estou em constante evolução na construção de sistemas robustos, com atenção à organização, lógica e boas práticas de programação. Busco desenvolver soluções eficientes e escaláveis, sempre aprendendo e aplicando novos conceitos em projetos práticos.
+Sou estudante de Ciência da Computação, com foco em desenvolvimento back-end e banco de dados. Tenho experiência prática com Java e estou em constante evolução na construção de sistemas mais complexos, com atenção à organização, lógica e boas práticas de programação. Busco desenvolver soluções eficientes e escaláveis, sempre aprendendo e aplicando novos conceitos em projetos práticos.
 
 ---
 
