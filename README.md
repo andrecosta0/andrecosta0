@@ -1,16 +1,33 @@
-## Hi there 👋
+### 👋 Olá, eu sou o André Costa
 
-<!--
-**andrecosta0/andrecosta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Java Júnior  
+🎓 Estudante de Ciência da Computação na Universidade Paulista (UNIP)
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação, com foco em desenvolvimento back-end e banco de dados. Tenho experiência prática com Java e estou em constante evolução na construção de sistemas robustos, com atenção à organização, lógica e boas práticas de programação. Busco desenvolver soluções eficientes e escaláveis, sempre aprendendo e aplicando novos conceitos em projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias que estou utilizando:
+
+- Java  
+- Swing  
+- Git  
+- GitHub  
+
+---
+
+### 📁 Repositórios:
+
+Confira meus projetos públicos na aba **Repositories**.  
+Os repositórios fixados no topo representam meus principais trabalhos em andamento.
+
+---
+
+### 📫 Contato:
+
+[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-costa-sampaio-328a78229/)  
+andre.160402@gmail.com
+
+---
+
+Obrigado por visitar meu perfil!
