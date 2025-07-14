@@ -32,10 +32,10 @@ Os repositórios fixados no topo representam meus principais trabalhos em andame
 
 ---
 
-### 📫 Contato:
+### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-costa-sampaio-328a78229/)  
-andre.160402@gmail.com
+- [LinkedIn - André Costa Sampaio](https://www.linkedin.com/in/andre-costa-sampaio-328a78229/)  
+- E-mail: andre.160402@gmail.com
 
 ---
 
