@@ -18,10 +18,16 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento back-end 
 
 ---
 
-### 📁 Repositórios:
+### 📁 Trabalhos Acadêmicos e Pessoais
 
-Confira meus projetos públicos na aba **Repositories**.  
-Nesta aba, encontram-se tanto os meus trabalhos acadêmicos quanto projetos pessoais desenvolvidos durante cursos e formações complementares, contendo diversos códigos e soluções práticas..
+Na aba **Repositories** estão disponíveis meus trabalhos acadêmicos e projetos pessoais desenvolvidos em cursos, contendo códigos e soluções práticas.
+
+---
+
+### 📚 Cursos Extracurriculares
+
+- **Fundamentos Java e Tecnologias Relacionadas** — Udemy — Em andamento (77 horas)  
+  Conteúdo: Orientação a Objetos, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate e mais.
 
 ---
 
