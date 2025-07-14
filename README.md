@@ -1,5 +1,7 @@
 ### 👋 Olá, eu sou o André Costa
 
+![Java](https://img.shields.io/badge/language-java-red)
+
 💻 Desenvolvedor Java Júnior  
 🎓 Estudante de Ciência da Computação na Universidade Paulista (UNIP)
 
@@ -19,7 +21,7 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento back-end 
 ### 📁 Repositórios:
 
 Confira meus projetos públicos na aba **Repositories**.  
-Os repositórios fixados no topo representam meus principais trabalhos em andamento.
+Nesta aba Repositories, encontram-se tanto os meus trabalhos acadêmicos quanto projetos pessoais desenvolvidos durante cursos e formações complementares, contendo diversos códigos e soluções práticas..
 
 ---
 
