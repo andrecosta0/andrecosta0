@@ -21,7 +21,7 @@ Sou estudante de Ciência da Computação, com foco em desenvolvimento back-end 
 ### 📁 Repositórios:
 
 Confira meus projetos públicos na aba **Repositories**.  
-Nesta aba Repositories, encontram-se tanto os meus trabalhos acadêmicos quanto projetos pessoais desenvolvidos durante cursos e formações complementares, contendo diversos códigos e soluções práticas..
+Nesta aba, encontram-se tanto os meus trabalhos acadêmicos quanto projetos pessoais desenvolvidos durante cursos e formações complementares, contendo diversos códigos e soluções práticas..
 
 ---
 
